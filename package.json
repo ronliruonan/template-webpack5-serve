@@ -1,0 +1,29 @@
+{
+  "name": "tying-webpack5-serve",
+  "version": "1.0.0",
+  "description": "template webpack5 dev serve",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronliruonan/tying-webpack5-serve.git"
+  },
+  "keywords": [
+    "template-webpack5-dev-serve"
+  ],
+  "author": "Ronan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ronliruonan/tying-webpack5-serve/issues"
+  },
+  "homepage": "https://github.com/ronliruonan/tying-webpack5-serve#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.3.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
